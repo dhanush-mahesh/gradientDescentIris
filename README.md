@@ -1,5 +1,3 @@
-Group Members: Dhanush Mahesh
-
 Hosted Dataset: Dhanush Mahesh's Github, Public 
 Link to hosted Dataset: https://raw.githubusercontent.com/dhanush-mahesh/gradientDescentIris/main/iris.data
 
